@@ -9710,6 +9710,16 @@ button.bg-dark:focus {
   text-align: center !important;
 }
 
+.text-center .text-center2 {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.text-center .text-center2 span{
+  color: #fed136;
+}
+
 @media (min-width: 576px) {
   .text-sm-left {
     text-align: left !important;
@@ -10021,8 +10031,8 @@ p {
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
 }
 .page-section h3.section-subheading {
   font-size: 1rem;
