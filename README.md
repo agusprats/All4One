@@ -8,6 +8,6 @@ Credits:<br/>
 Header picture: Jozef Fehér, Pexels.com<br/>
 Bootstrap4
 <hr/>
-<a href="agusprats.github.io/all4one/" target="new">SEE DEMO</a>
+<a href="https://agusprats.github.io/All4One/" target="new">SEE DEMO</a>
 <hr/>
 <img src="all4one.png">
